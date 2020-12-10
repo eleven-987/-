@@ -6,6 +6,7 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
     String first = "第一次提交";
+    String first1 = "第一次提交";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
